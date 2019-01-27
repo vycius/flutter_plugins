@@ -75,7 +75,6 @@ class _MyHomePageState extends State<MyHomePage> {
         providers: [
           ProvidersTypes.google,
           ProvidersTypes.facebook,
-          ProvidersTypes.twitter,
           ProvidersTypes.email
         ],
         twitterConsumerKey: "",
